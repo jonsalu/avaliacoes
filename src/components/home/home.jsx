@@ -23,32 +23,32 @@ const Home = () => {
                     </div>
 
                     <div className="card">
-                        <a href="https://www.google.com/search?q=hospital+do+cora%C3%A7%C3%A3o&rlz=1C1UEAD_enBR1185BR1185&oq=hospital+do+cora%C3%A7%C3%A3o&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MhAIARAuGK8BGMcBGIAEGI4FMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMhAIBxAuGK8BGMcBGIAEGI4FMgcICBAAGIAEMgcICRAAGIAE0gEIMzU0N2owajmoAgawAgHxBYTK8HY9g7LA&sourceid=chrome&ie=UTF-8&lqi=ChVob3NwaXRhbCBkbyBjb3Jhw6fDo29I6dHngOeAgIAIWiMQABABEAIYABgBGAIiFWhvc3BpdGFsIGRvIGNvcmHDp8Ojb5IBBmRvY3RvcpoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSMU9GcE1jbWhCUlJBQvoBBAgAEBM#rlimm=18118924394337630017&lrd=0x71ab3822df7cde1:0xfb7359bd0ca77741,3,,,," target="_blank"><img src="/hcor-pic1.jpeg" alt="" /><p>Hospital primavera<br /> Unidade São José</p></a>
+                        <a href="https://search.google.com/local/writereview?placeid=ChIJ4c33LYKzGgcRQXenDL1Zc_s" target="_blank"><img src="/hcor-pic1.jpeg" alt="" /><p>Hospital primavera<br /> Unidade São José</p></a>
                     </div>
 
                     <div className="card">
-                        <a href="https://www.google.com/search?q=diagnose+rua+campos&rlz=1C1UEAD_enBR1185BR1185&oq=diagnose+rua+campos&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIbCAEQLhhDGIMBGK8BGMcBGLEDGIAEGIoFGI4FMgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTISCAQQLhhDGK8BGMcBGIAEGIoFMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAE0gEIMjU3MGowajmoAgCwAgA&sourceid=chrome&ie=UTF-8#lrd=0x71ab39d2833f6c3:0x204ed7908af530aa,3,,,," target="_blank"><img src="/campos-pic.jpeg" alt="" /><p>Diagnose Rua Campos</p></a>
+                        <a href="https://search.google.com/local/writereview?placeid=ChIJw_YzKJ2zGgcRqjD1ipDXTiA" target="_blank"><img src="/campos-pic.jpeg" alt="" /><p>Diagnose Rua Campos</p></a>
                     </div>
 
                     <div className="card">
-                        <a href="https://www.google.com/search?q=diagnose+barao+de+maruim&rlz=1C1UEAD_enBR1185BR1185&oq=diagnose+barao+de+maruim&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQLhivARjHARiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCggGEAAYgAQYogQyCggHEAAYogQYiQUyBwgIEAAY7wXSAQg1NjA3ajBqOagCALACAA&sourceid=chrome&ie=UTF-8#lrd=0x71ab3fa63df8a55:0xff47074106034869,3,,,," target="_blank"><img src="/barao-pic.jpg" alt="" /><p>Diagnose Barão de Maruim</p></a>
+                        <a href="https://search.google.com/local/writereview?placeid=ChIJVYrfY_qzGgcRaUgDBkEHR_8" target="_blank"><img src="/barao-pic.jpg" alt="" /><p>Diagnose Barão de Maruim</p></a>
                     </div>
 
                     <div className="card">
-                        <a href="https://www.google.com/search?q=policlin+augusto+franco&rlz=1C1UEAD_enBR1185BR1185&oq=policlin+augusto+franco&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YrwEYxwEYgAQyBwgCEAAYgAQyBwgDEAAYgAQyCAgEEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEIMzQ5OWowajBqOagCALACAA&sourceid=chrome&ie=UTF-8#lrd=0x71ab10d4cd75f5f:0x2ff59de2e17d81f0,3,,,," target="_blank"><img src="/augusto-franco-pic.jpg" alt="" /><p>Policlin Augusto Franco</p></a>
+                        <a href="https://search.google.com/local/writereview?placeid=ChIJX1_XTA2xGgcR8IF94eKd9S8" target="_blank"><img src="/augusto-franco-pic.jpg" alt="" /><p>Policlin Augusto Franco</p></a>
                     </div>
 
                     <div className="card">
-                        <a href="https://www.google.com/search?q=policlin+siqueira+campos&rlz=1C1UEAD_enBR1185BR1185&oq=policlin+siqueira+campos&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyEAgBEC4YrwEYxwEYgAQYjgUyBwgCEAAYgAQyBwgDEAAYgAQyCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMggICBAAGBYYHjIICAkQABgWGB7SAQg0MTA4ajBqOagCBrACAfEFCgk8EAYdcIo&sourceid=chrome&ie=UTF-8#lrd=0x71ab30f22e8c0fd:0x2a34c9c5c8c7d8c,3,,,," target="_blank"><img src="/siqueira-pic.jpg" alt="" /><p>Policlin Siqueira Campos</p></a>
+                        <a href="https://search.google.com/local/writereview?placeid=ChIJ_cDoIg-zGgcRjH2MXJxMowI" target="_blank"><img src="/siqueira-pic.jpg" alt="" /><p>Policlin Siqueira Campos</p></a>
                     </div>
 
 
                     <div className="card">
-                        <a href="https://www.google.com/search?q=policlin+itabaiana&rlz=1C1UEAD_enBR1185BR1185&oq=policlin+itabaiana&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YrwEYxwEYgAQyBwgCEAAYgAQyBwgDEAAYgAQyCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yBwgHEAAY7wUyBwgIEAAY7wUyBwgJEAAY7wXSAQg0MTM4ajBqOagCALACAA&sourceid=chrome&ie=UTF-8#lrd=0x70ffa87e917babb:0x1e672661e28948ea,3,,,," target="_blank"><img src="/itabaiana-pic.jpg" alt="" /><p>Policlin Itabaiana</p></a>
+                        <a href="https://search.google.com/local/writereview?placeid=ChIJu7oX6Yf6DwcR6kiJ4mEmZx4" target="_blank"><img src="/itabaiana-pic.jpg" alt="" /><p>Policlin Itabaiana</p></a>
                     </div>
 
                     <div className="card">
-                        <a href="https://www.google.com/search?q=policlin+itabaiana&rlz=1C1UEAD_enBR1185BR1185&oq=policlin+itabaiana&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YrwEYxwEYgAQyBwgCEAAYgAQyBwgDEAAYgAQyCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yBwgHEAAY7wUyBwgIEAAY7wUyBwgJEAAY7wXSAQg0MTM4ajBqOagCALACAA&sourceid=chrome&ie=UTF-8#lrd=0x70ffa87e917babb:0x1e672661e28948ea,3,,,," target="_blank"><img src="/alameda-pic1.jpg" alt="" /><p>Hospital Primavera<br /> Clínica Alameda</p></a>
+                        <a href="https://search.google.com/local/writereview?placeid=ChIJdQX640-zGgcRj7OA3XAk_2M" target="_blank"><img src="/alameda-pic1.jpg" alt="" /><p>Hospital Primavera<br /> Clínica Alameda</p></a>
                     </div>
                 </div>
 
