@@ -159,6 +159,24 @@
     .container-title h1 { font-size: 1.8rem; }
     .container-title h2 { font-size: 1.2rem; }
     .container-title { padding: 20px; }
+    .container-title p { font-size: 0.95rem; }
+    .card img { height: 140px; }
+    .card p { font-size: 0.9rem; }
+    .card a::after { font-size: 0.85rem; padding: 8px 16px; }
+}
+
+@media (max-width: 480px) {
+    .container { padding: 10px; gap: 15px; }
+    .container-title h1 { font-size: 1.5rem; }
+    .container-title h2 { font-size: 1rem; }
+    .container-title { padding: 15px; max-height: none; }
+    .container-title p { font-size: 0.9rem; line-height: 1.5; }
+    .after-title { width: 50%; margin-bottom: 15px; }
+    .cards { gap: 15px; }
+    .card { padding: 12px; min-height: 250px; }
+    .card img { height: 120px; max-width: 200px; }
+    .card p { font-size: 0.85rem; margin: 8px 0 0; }
+    .card a::after { font-size: 0.8rem; padding: 6px 12px; }
 }
 
 .cards {

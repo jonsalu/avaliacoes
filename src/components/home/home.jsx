@@ -19,7 +19,7 @@ const Home = () => {
                 <div className="cards">
                     <div className="card">
                         
-                        <a href="https://www.google.com/search?q=hospital+primavera&sca_esv=82b7bac21a739727&rlz=1C1UEAD_enBR1185BR1185&sxsrf=ANbL-n4d3QC9jrna1b4UDTUWa8ANqZGFPg%3A1774616119269&ei=N37GacuIEO6C5OUP9Kqr-QQ&biw=1280&bih=889&ved=0ahUKEwiLgJubkMCTAxVuAbkGHXTVKk8Q4dUDCBE&uact=5&oq=hospital+primavera&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmhvc3BpdGFsIHByaW1hdmVyYTIKECMYgAQYJxiKBTIKECMY8AUYJxjJAjIWEC4YgAQYsQMYFBjHARiHAhiOBRivATIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMg4QLhiABBjHARiOBRivATIFEAAYgAQyJRAuGIAEGLEDGBQYxwEYhwIYjgUYrwEYlwUY3AQY3gQY4ATYAQFIyCtQ0whYiyhwBHgBkAEAmAHCAaABqBqqAQQwLjE5uAEDyAEA-AEBmAIXoAKlG8ICChAAGLADGNYEGEfCAg0QABiABBiwAxhDGIoFwgIcEC4YgAQYsAMYQxjHARjIAxiKBRiOBRivAdgBAcICGRAuGIAEGLADGEMYxwEYyAMYigUYrwHYAQHCAhYQLhiABBixAxhDGMcBGIoFGI4FGK8BwgIKEAAYgAQYQxiKBcICExAuGIAEGEMYxwEYigUYjgUYrwHCAhEQLhiABBixAxjHARiOBRivAcICDRAAGIAEGLEDGEMYigXCAhYQLhiABBixAxgUGIcCGMcBGI4FGK8BwgIUEC4YgAQYsQMYgwEYxwEYjgUYrwHCAgsQABiABBiSAxiKBcICCxAuGIAEGMcBGK8BmAMAiAYBkAYUugYGCAEQARgIkgcENC4xOaAHvfUCsgcEMC4xObgHjhvCBwgwLjMuMTguMsgHY4AIAA&sclient=gws-wiz-serp#lrd=0x71ab30f22e6bc4b:0xa1b9922b2b368657,3,,,," target="_blank"><img src="/hp-pic1.jpg" alt="" /><p>Hospital Primavera <br />Unidade Jardins</p></a>
+                        <a href="https://search.google.com/local/writereview?placeid=ChIJS7zmIg-zGgcRV4Y2KyuSuaE" target="_blank"><img src="/hp-pic1.jpg" alt="" /><p>Hospital Primavera <br />Unidade Jardins</p></a>
                     </div>
 
                     <div className="card">
